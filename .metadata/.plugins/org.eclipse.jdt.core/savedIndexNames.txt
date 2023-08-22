@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\VASKO\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1975885339.index
+2553635596.index
+2156961944.index
+684336168.index
+1865797976.index

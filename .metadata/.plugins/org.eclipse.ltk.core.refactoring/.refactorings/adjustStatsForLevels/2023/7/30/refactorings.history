@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;adjustStatsForLevels.java&apos; to &apos;WalkerRouteData.java&apos;&#x0D;&#x0A;- Original project: &apos;adjustStatsForLevels&apos;&#x0D;&#x0A;- Destination element: &apos;WalkerRouteData.java&apos;&#x0D;&#x0A;- Original element: &apos;adjustStatsForLevels.adjustStatsForLevels.java&apos;" description="Copy compilation unit" element1="/acis_public-master&lt;adjustStatsForLevels{adjustStatsForLevels.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1690290764940" target="/aCis/aCis_gameserver/java/net/sf/l2j/gameserver/data/xml/WalkerRouteData.java" units="1" version="1.0"/>
+</session>
